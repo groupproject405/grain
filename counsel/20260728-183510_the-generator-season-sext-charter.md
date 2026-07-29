@@ -36,9 +36,9 @@ Radiant pass `20260728.183510` — sext opens · MUR paused · Glow/Rishi/Dojo r
 | **quad** | Gren Chapter | lean-16 CLOSED · handed back | **CLOSED** |
 | **quint** | Keeh Chapter | lean-16 CLOSED · handed back | **CLOSED** |
 | **sext** | **Generator Chapter** | **s8** complete / **s9** next | **PAUSED** |
-| **sept** | Surface Chapter | p40 / p41 next | **PAUSED** |
+| **sept** | Surface Chapter | p40 / p41 next | **OPEN** |
 | **oct** | Oven Chapter | o3 / o4 next | **PAUSED** |
-| **nona** | Nona Chapter | n2 / n3 next | **OPEN** |
+| **nona** | Nona Chapter | n3 / n4 next | **PAUSED** |
 
 Handback lean (when Generator resumes): `extend_or_return=return_mur_u92`.  
 Surface handback (while sept walks): `return_generator_s9`.  
