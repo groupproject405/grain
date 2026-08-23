@@ -17,7 +17,7 @@ let gen = run ["test" "-f" "tools/gen/oven/oven_corpus_lap1.rish"]
 assert gen.ok else "oven-season-o1: gen oven lap1 missing"
 let view = run ["test" "-f" "tools/inference_oven_corpus_view.rish"]
 assert view.ok else "oven-season-o1: inference oven view missing"
-let shim = run ["test" "-f" "tools/anvil_corpus_lap1.rish"]
+let shim = run ["test" "-f" "tools/an/anvil_corpus_lap1.rish"]
 assert shim.ok else "oven-season-o1: anvil accrete shim missing"
 
 say "GREEN: oven-season-o1 — oven/ LIVE · anvil/ gone · shims kept · Oven Season"
