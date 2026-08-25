@@ -1,4 +1,4 @@
-# tools/gen/ember/ember_corpus_lap1.rish — Ember corpus lap 0 catalog witness.
+# tools/gen/ember/ember_corpus_lap1.rish -- Ember corpus lap 0 catalog witness.
 #
 # Run from the repository root:
 #   rishi/bin/rishi run tools/gen/ember/ember_corpus_lap1.rish
