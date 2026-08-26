@@ -175,6 +175,16 @@ DP_EXCLUDE_PATHS="docs-geode/demos/README.md"
 #   silence. The census then read 178 where it had read 182, and the round recorded the shift as
 #   untraced (REDS %245). Discovery skips full-line comments now, so the accident cannot recur --
 #   which means the subtraction has to be a decision, and this is where decisions live.
+#
+#   THE SAME EVENT, RECORDED FROM THE CUT'S SIDE. The mitra shed, circled on Keaton's word
+#   (SHRED_PREP shed-complete record, stamp 20260826.032839; commit e82040c5a), cut those eleven
+#   foundations elders and one expanding-prompts fossil,
+#   `20260811-220402_wade-bit-design-system-and-dimeroll-entities.md`, whose living mutants stand
+#   at fresh stamps and whose living citers were repointed in the cut's own round. Its remaining
+#   references live in dated testimony, which keeps every word it wrote, so the census reads each
+#   as intent rather than breakage -- the same LISTED shape %157 seated and %162 extended. The cut
+#   crossed this census while the census stood dark on the cutting host (the BSD dialect fault,
+#   REDS %272), which is how the crossing went unmeasured; REDS %274 records that lesson.
 # The LISTED half only. The two planted names that stood here -- `20260101-000000_a-dated-note.md`
 # and `20260101-010101_never-written.kyri` -- are found by discovery now, along with 45 more, so
 # listing them would be the duplication this round exists to end.
@@ -256,6 +266,7 @@ DP_FIXTURE_BASENAMES="20260730-022147_keaton-livermore-resume-draft.md \
 20260821-035846_every-climate-has-a-fiber.md \
 20260813-142420_mycelium-the-consensus-protocol.md \
 20260703-235912_diet-and-the-crossing-manifest.md \
+20260811-220402_wade-bit-design-system-and-dimeroll-entities.md \
 20260702-090000_theta.md \
 20260716-145955_rune.bron \
 20260717-125858_skate.bron \
