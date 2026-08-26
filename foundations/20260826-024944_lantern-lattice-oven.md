@@ -1,6 +1,6 @@
 # Lantern, Lattice, and Oven -- An Open Model, Served Honestly
 
-> **Fossil `20260826.024944`** -- the living mutant is [`20260826-024944_lantern-lattice-oven.md`](20260826-024944_lantern-lattice-oven.md); this dated body stays whole.
+*Living mutant, re-seated `20260826.024944` in the chapter era (standfast molt, Keaton's word); the elder stands whole at its own stamp and banner-points here.*
 
 *The open-model layer for Grain and the public benefit company that stewards it: where a model is baked, served, and metered. Three named parts carry the work -- the oven, the serving fabric, and the honest meter -- with the token economy pointed at real cost and the model kept in the commons.*
 

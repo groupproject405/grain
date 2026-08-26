@@ -8,12 +8,12 @@ say "oven-seat: Lens TAME — Oven Chapter o1."
 
 let seat = run ["test" "-f" "counsel/date/20260728/20260728-232511_surface-season-p36-oven-seated.md"]
 assert seat.ok else "oven-seat: p36 counsel missing"
-let living = run ["test" "-f" "foundations/20260728-232511_lantern-lattice-oven.md"]
+let living = run ["test" "-f" "foundations/20260826-024944_lantern-lattice-oven.md"]
 assert living.ok else "oven-seat: living Oven foundation missing"
 let mid = run ["test" "-f" "foundations/20260728-221253_lantern-lattice-anvil.md"]
 assert mid.ok else "oven-seat: Anvil mid-fossil missing"
 
-let oven = run ["sh" "-c" "grep -q 'Oven — Where the Model Is Baked' foundations/20260728-232511_lantern-lattice-oven.md && grep -q '\\*\\*living mutant\\*\\*' foundations/20260728-232511_lantern-lattice-oven.md && echo OVEN_OK"]
+let oven = run ["sh" "-c" "grep -q 'Oven — Where the Model Is Baked' foundations/20260826-024944_lantern-lattice-oven.md && grep -q '\\*\\*living mutant\\*\\*' foundations/20260826-024944_lantern-lattice-oven.md && echo OVEN_OK"]
 assert oven.ok else "oven-seat: Oven body scan failed"
 assert oven.out contains "OVEN_OK" else "oven-seat: Oven section missing"
 let lex = run ["sh" "-c" "grep -q 'Living name for the local forge' context/LEXICON.md && grep -q 'Retired living forge name' context/LEXICON.md && grep -q 'Oven was Anvil' context/LEXICON.md && echo LEX_OK"]

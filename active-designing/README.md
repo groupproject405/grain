@@ -62,6 +62,7 @@ Dated briefs carry `YYYYMMDD-HHMMSS_short-sprig.md` filenames; this README is th
 
 | Stamp | Brief | Meaning |
 |-------|-------|---------|
+| `20260826.022443` | [The Linengrow Design Theme](20260826-022443_the-linengrow-design-theme.md) | rounded shape law; tileable brushstroke; five rota encapsulations |
 | `20260826.021136` | [Caravan rearchitected](20260826-021136_caravan-rearchitected-the-optimization-spine.md) | five bounded moves; wrap named, set word-wide, drain replayable |
 | `20260826.014903` | [Skate returns, the DAG platform](20260826-014903_skate-returns-the-dag-rendering-platform.md) | DVUI read MIT; hot reload with witnesses; sameness macro; gate %6 |
 | `20260826.014902` | [Eight modules through the spine](20260826-014902_eight-modules-through-the-optimization-spine.md) | one bounded move per module, stretches named plainly |

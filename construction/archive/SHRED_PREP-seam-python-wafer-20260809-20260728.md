@@ -65,8 +65,8 @@ living Realidream also reaches:
 | `foundations/20260629-014512_money-that-stays-close-to-home.md` | wafer · anywhere | hold / thin? |
 | `foundations/20260628-133212_the-device-that-forgets.md` | wafer | hold / thin? |
 | `foundations/20260629-020012_mantrapod-venture-pitch.md` | wafer · device | hold / thin? |
-| `foundations/20260628-133212_a-home-in-plain-text.md` | Realidream | held (p31) |
-| `foundations/20260628-124512_anywhere-we-are-found.md` | Realidream → money | held (currency seat) |
+| `foundations/20260826-024941_a-home-in-plain-text.md` | Realidream | held (p31) |
+| `foundations/20260826-024940_anywhere-we-are-found.md` | Realidream → money | held (currency seat) |
 
 ### Outside one-hop (recorded · not BFS’d)
 
