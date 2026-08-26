@@ -5,7 +5,7 @@
 **Style:** Gauge, Field setting (see `../context/GAUGE_STYLE.md`)
 **Voice:** Kyri
 **Status:** Mixed -- research for understanding; a lens studied rather than a doctrine adopted, each claim's standing named plainly, read 2026-08-26
-**Kin:** [`../gratitude/grain-lineage/topos-aether-agni-geometry.md`](../gratitude/grain-lineage/topos-aether-agni-geometry.md) -- [`20260826-002700_photonic-and-thermodynamic-compute-through-the-field-lens.md`](20260826-002700_photonic-and-thermodynamic-compute-through-the-field-lens.md)
+**Kin:** `gratitude/grain-lineage/topos-aether-agni-geometry.md` -- [`20260826-002700_photonic-and-thermodynamic-compute-through-the-field-lens.md`](20260826-002700_photonic-and-thermodynamic-compute-through-the-field-lens.md)
 
 This piece studies a lens rather than adopting a doctrine. Four electrical figures held or hold
 that the field is the primary reality, with the particle a derived appearance: Tesla, Steinmetz,
