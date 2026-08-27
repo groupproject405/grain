@@ -22,6 +22,21 @@ The nib is the HEAD **before** the debride's own commit -- so the old files live
 
 ---
 
+## `20260827.040024` -- the Kiln deep debride runs (walk-back `6063892108`, and a bundle)
+
+**Swept:** the granted history rewrite -- every blob reachable only in history gets the
+word-bounded Oven-to-Kiln swap; every blob of HEAD's own tree is protected byte for byte, so the
+living tree, its deliberate lineage rows, and all dated testimony still present in the tree ride
+through untouched, and *proven* and *woven* never match the bound pattern. Commit messages keep
+every word. Every rewritten commit is re-signed; `xy` is force-pushed on Keaton's word
+(`20260827`, "approve the deep debride and force pushes"); `gp405` is not on this clone and takes
+the rewrite from whichever bench carries it; the `seed` remote stays behind its custody gate.
+
+**What waits there, worth recalling:** this nib is unreachable on `xy` after the force-push --
+the true walk-back is the pre-rewrite bundle at the session scratchpad
+(`grain-prekiln-final.bundle`, `--all`) and any clone that has not yet re-pulled. Every bench
+recloning or hard-resetting after this rewrite is the one unavoidable cost the debride rule names.
+
 ## `20260827.025117` -- the bake seat takes the name Kiln (walk-back `78c8c1c3e0`)
 
 **Swept:** the Oven-to-Kiln molt-breach arc on Keaton's word -- living mutants seated for
