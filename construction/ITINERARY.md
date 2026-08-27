@@ -54,44 +54,44 @@ NVMe** - never EWR) - this session in ai-jail. Measured on metal `20260821.03403
 
 *One-page carry card for outer terminal - phone - waymarks. Refreshed when Keaton says **remember**. Debrided to the Compass Chapter `20260809.024320`; those greens live in the code and dated counsel.*
 
-**Git nib:** `ab62cd8e3d` -- the choir sings 113 of 121.
+**Git nib:** `55e1dadaa7` -- the choir sings 121 of 121.
 
-**Now.** **A platform repair that reached one caller, and the class nobody had counted.**
+**Now.** **The glob was the guard, and eight witnesses stood outside it.**
 
-**Dream's lap `20260827.004535` -- `%288` CLOSED on a shelf; `%282` stays OPEN, root named.**
-`%282` moved one module's `sockaddr_in` to `std.c.sockaddr.in` and left `BindFailed` at rebind open.
-The root sat under the struct and wider than the module: that file still spelled its socket OPTION
-numbers in Linux's dialect, **and so did nineteen others** -- **20 modules, 46 literal
-declarations**, beside **19** carrying the Linux-layout `sockaddr_in` against **1** dispatched. BSD
-reads `SOL_SOCKET` 0xffff not 1, so `setsockopt` there fails and its discarded return leaves the
-option unset -- a rebind that refuses.
+**Dream's lap `20260827.022424` -- `%290` CLOSED; the Caravan choir reads 121, was 113.**
+`caravan_subscribe_poll_signal` ran its probe as one `sh -c` string opening
+`rm -f A B && "$service" ... &`. `&` binds LOOSER than `&&`, so that backgrounds the AND-list as one
+subshell and `$!` names the wrapper: `kill -TERM` killed it, the service orphaned to init, and `cat`
+read a file two lines deep. Each RED leaked a supervisor the next run inherited.
 
-**A meter rather than a sweep:** nineteen cannot be proven on this pier, where these numbers read
-correct either way, and a fix closes on a witness. The named module reaches `c.SOL.SOCKET`,
-`c.SO.REUSEADDR` and `c.SO.RCVTIMEO`, both calls refusing by name, and
-`tools/fixtures/socket_dialect_scan.sh` counts the class under ceilings that only fall -- proven
-both ways across **18 behaviors**, gated by the roster's **75th** guard. The rest turn on touch.
+**Why it stood:** the choir globs `caravan_*_witness.rish` and **eight runners wore no such name**,
+so the bijection built to catch an unheard witness printed `ROSTER_OK` truthfully over them. **Where a guard finds its subjects by name, the naming convention IS the guard.** Repaired
+into `tools/fixtures/caravan_subscribe_poll_signal.sh` -- backgrounded alone, reaping children
+first; the eight renamed and registered, **14 files repointed**. Proven both ways: GREEN three runs,
+zero orphans; a service trapping SIGTERM refused at `rc=2`.
 
-**Measured:** cold roster **1,676s**, 70 of 71 green; its one red was the card's stale nib from a
-lap that ended at `git add`, a fourth firing booking no row.
-**`caravan_subscribe_poll_signal` is RED here** at its SIGTERM assertion, identical under A/B, and
-**outside `caravan_suite`**. Its own lap.
+**Measured:** cold roster **72 of 72 green**. Sound hit the same fault closing `%282`, fixed it with
+`exec`, and sized this repair at `20260827.034026` while deferring the cut; this lap lands it.
+**The row-number door fired a FOURTH time** -- my `%289` re-seated to `%290`.
+
+**Two reds rode in on the merge, neither mine** (read on `xy/main` alone): `witness_reach` read
+**1,202** unreached against a **1,154** ceiling; this lap brings it to **1,155**, one short -- the
+witness on no clock is upstream's `tools/t/tally_region_witness.rish`. `vocabulary_collection` reds
+on three `corpus` uses from Kiln. Both want one bench.
+
 
 **Dream's lane, still open:** the **width ratchet** -- `glow/rune_shape.rye` publishes `usize` in
 **5 fields and 5 accessors**, while `lower_shape.rye` and `lower_named_cast.rye` sit on the
-45-module roster gated at zero authored `usize` and pay a cast at **16 and 17** call sites into it,
-so moving it REMOVES casts. The **59 gate fixtures await his word**.
-
-**Sound's open row (its `%281`):** two sessions share this checkout and `rye build` writes `.zig`
-shadows with no lock, so each deletes the other's mid-compile and the loser reports RED about
-correct code. A lock in `bridge_to_zig`, or one tree per star -- his word.
+45-module roster gated at zero authored `usize` and pay **16 and 17** casts into it, so moving it
+REMOVES casts. The **59 gate fixtures await his word**.
 
 **Dream's loop, his word `20260826`:** the seed cadence is CUT (see *Custody gates*). A **standing
 adaptation grant** replaces it: bash and sh into **Rishi**, HTML into **Brush**, Python into
-**Glow**, each born beside its elder, which stands until the newborn is GREEN and then a fossil.
+**Glow**, each born beside its elder, which stands until the newborn is GREEN, then a fossil.
 
 **The next doors.** `%230`/`%252`/`%255`/`%281` closed `20260827` on seated conventions; the pin
-holds half its room. Mine: the width ratchet; the socket-table fold, granted.
+holds half its room. His: a **gating policy for `parity_ch01`** (`%290`). Mine: the width ratchet;
+the socket-table fold, granted.
 
 ---
 ## Landed arcs

@@ -57,6 +57,7 @@ order rather than by stamp; they rest on the `20260724` and `20260725` shelves. 
 | `20260827.024712` | [the lock proven from the other side](20260827-024712_the-lock-proven-from-the-other-side.kyri) | the sibling proves the lock; %281 narrows |
 | `20260827.023827` | [the bench that was already occupied](20260827-023827_the-bench-that-was-already-occupied.kyri) | %281 third firing; socket fold surveyed |
 | `20260827.023757` | [one tree, one toolchain spawn](20260827-023757_one-tree-one-toolchain-spawn.kyri) | the build lock lands in rye; %281 shadows closed; three legs on metal |
+| `20260827.022424` | [the glob that was the guard](20260827-022424_the-glob-that-was-the-guard.kyri) | %290: a witness killed the wrapper, and eight stood outside the choir's glob |
 | `20260827.004535` | [the repair that reached one caller](20260827-004535_the-repair-that-reached-one-caller.kyri) | %288: one module of twenty repaired, the class now metered |
 | `20260827.000338` | [the flag one host cannot test](20260827-000338_the-flag-one-host-cannot-test.kyri) | libc where macOS links it free; nine stale citations, three reds booked twice |
 | `20260826.235304` | [the return nobody read](20260826-235304_the-return-nobody-read.kyri) | %282 closes: the socket trio named one arch, the return was discarded, the kill hit a subshell |
