@@ -54,7 +54,7 @@ NVMe** - never EWR) - this session in ai-jail. Measured on metal `20260821.03403
 
 *One-page carry card for outer terminal - phone - waymarks. Refreshed when Keaton says **remember**. Debrided to the Compass Chapter `20260809.024320`; those greens live in the code and dated counsel.*
 
-**Git nib:** `ce698b1a8b` -- the bake seat takes the name Kiln.
+**Git nib:** `ab62cd8e3d` -- the choir sings 113 of 121.
 
 **Now.** **A platform repair that reached one caller, and the class nobody had counted.**
 
@@ -223,7 +223,7 @@ and [`archive/20260825-003210_itinerary-landed-laps.md`](archive/20260825-003210
 
 | Landed | Round | Log |
 |---|---|---|
-| `20260827.004535` | %288 a platform repair reached one caller; the class of twenty was never counted | [log](../session-logs/20260827-004535_the-repair-that-reached-one-caller.kyri) |
+| `20260827.034026` | eight witnesses outside the glob; six modules the header exempts are witnessed | [log](../session-logs/20260827-034026_the-exemption-that-named-its-own-witnesses.kyri) |
 
 **One row, on purpose.** A landed lap keeps one line here until the next replaces it.
 
