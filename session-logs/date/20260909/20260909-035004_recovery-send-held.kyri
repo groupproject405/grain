@@ -1,0 +1,30 @@
+format session-log-v1
+stamp 20260909.035004
+editor Codex CLI
+provider OpenAI
+product Codex
+role incense captain -- law and iterative review
+modality text
+model gpt-6-astra
+model_status verified by current session rollout turn_context
+configured_model gpt-6-astra
+configured_status explicit fleet CLI selection
+evidence tools/f/fleet-loop-codex.sh passes -m gpt-6-astra; current session 01a084da-3ed2-75b3-bcc1-44e0cff8fb06 turn_context
+voice Kyri
+title Recovery send held for verification
+prompt Close the recovery lap with a durable record and preserve the unfinished send
+rota none -- send follow-up in the same lap; Earth was read and recorded in 20260909-030429_fleet-recovery.kyri
+obs The complete hot pass before send finished with 205 green guards, zero reds, two custody gates, and tree_moved=no. Its transcript is session-output/standing-equipment-hot.txt.
+obs The first send fetch found Diffuser commit 9230cb0f0 carrying the same script modes and comment repair. Rebase kept its watcher whole and both checkpoints. The signed work commit dc5a0d100c carries our TAME link correction and seven-stash recovery audit.
+obs A later fetch found Grass commit 064d32e38 on both main remotes, restoring the isolated sow identity control. That commit has not been integrated into this branch. No main push was attempted.
+obs The rebase verification launched with --scoped and the full green receipt. At 03:47, it still had 134 guards whose earlier durations totaled 1409 seconds. The enclosing process is timeout 5400, started about 02:28. The verification could not finish inside this lap.
+obs Stopped only the recorded roster PID 309567 and its waiting supervisor PID 309444 with fleet_call --pid and an explicit --signal TERM. Each resolved to this checkout. The roster lock was released; no loop or peer process was signaled. The scoped transcript has no run_verdict and is an interrupted attempt, never green evidence.
+obs Pushed dc5a0d100c to xy, then gp405, at pier/incense/20260909-030429-fleet-recovery. This follow-up carries the send outcome and its own parent nib to the same branch. All seven stash identities remain unchanged.
+loom family=standing_equipment phase=hot guards=207 green=205 red=0 gated=2 seconds=1916 cpu_ms=1767469 tree_moved=no verdict=ok
+loom family=rebase_verification phase=scoped verdict=interrupted remaining_at_read=134 prior_remaining_seconds=1409
+loom family=qa reconciled_checkpoints=100 reconciled_itinerary=100 reconciled_recovery_log=100
+file construction/ITINERARY.md parent nib for this substantive follow-up
+file session-logs/date/README-index-20260909.md this follow-up's shelf-qualified row
+recommend keep-going Recover pier/incense/20260909-030429-fleet-recovery before new work. Rebase onto current xy/main, retain Grass's sow control, re-verify the reconciled tree, and push main to xy then gp405. Keep the equinox patch at its dated-guard gate and all seven stashes intact.
+scope Recovery send record and durable branch; main integration and completed rebase verification remain open
+status OPEN -- full hot pass green before send; work preserved on both remotes; scoped rebase verification interrupted and main integration deferred
