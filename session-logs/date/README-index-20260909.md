@@ -11,6 +11,7 @@ Roster: [`../CHAPTERS.md`](../CHAPTERS.md) - living pin: [`../README.md`](../REA
 
 | Stamp | Log | What it recorded |
 |---|---|---|
+| `20260909.071036` | [Parked shelves](20260909/20260909-071036_parked-shelves.kyri) | Copal; 11 carried, one recovered |
 | `20260909.063313` | [Comments counted as code](20260909/20260909-063313_comments-that-counted-as-code.kyri) | paired diagnostic checks |
 | `20260909.063251` | [Integrated recovery](20260909/20260909-063251_the-integrated-recovery-is-ready.kyri) | Copal; 11 checks pass |
 | `20260909.060234` | [Restore the card bound](20260909/20260909-060234_restore-the-card-bound.kyri) | final rebase overflow |
