@@ -1,0 +1,44 @@
+format session-log-v1
+stamp 20260909.030429
+editor Codex CLI
+provider OpenAI
+product Codex
+role incense captain -- law and iterative review
+modality text
+model gpt-6-astra
+model_status verified by current session rollout turn_context
+configured_model gpt-6-astra
+configured_status explicit fleet CLI selection
+evidence tools/f/fleet-loop-codex.sh passes -m gpt-6-astra; current session 01a084da-3ed2-75b3-bcc1-44e0cff8fb06 turn_context
+voice Kyri
+title Fleet recovery
+prompt Read the baton and handoffs, recover this seat's parked work, finish a witnessed lap, and push xy then gp405
+obs Set executable mode on the Codex watcher and loop control scripts, rewrite the watcher's comments to describe its Codex launch, and replace one Markdown link with a plain path in the TAME rule.
+rota lap 4424, row 4 -- Earth, the row that breathes in; the stamp, room, and type-mark readings called for checking the object itself. The stash records were landed, the two orphaned programs were earlier designs, and two new script modes exceeded a measured ceiling.
+obs The newest day shelf and its top three logs record a working Codex fleet and an incense watcher waiting for the interactive shell. The current transcript and rollout identify this autonomous Codex session separately from that earlier sitting.
+obs Read all seven stash inventories and checked the four parked session logs against landed history. stash_record reports records=4 landed=4 unlanded=0, paths=38, unread=32, orphans=6 partitioned as moved=1 shelf=3 work=2. Every stash remains present at its original object identity.
+recovery adb48f11a83dcc00aa306c343c0192f5deb041d7 -- Codex loop and handoff already landed. Four equinox scan edits remain parked: the handoff and live card hold the dated-guard ruling. The patch also leaves e108's expect_next=38 equality in place; it is unfinished work, preserved whole.
+recovery a148c34f573abf5f4dc67f70e264f63172ad8ece -- plant adoption scan, control, and witness match HEAD byte for byte. Its log landed in f62038a05.
+recovery a6ebef0c2a57734e823fadf80105b5ddf8dbb173 -- documented-room and shipped-binary repairs match HEAD; shared-pen now carries later population and heredoc checks. Both session logs landed in f578a6fd7.
+recovery e7483528bb4fee56ce4ab5b2a85868179556125e -- earlier copy of the shared-pen lap recovered in the next stash and already landed.
+recovery 501de3b20320f154d231d8710b6955d01a9e5f00 -- the doorway-reach proposal walks three rooms including deferred and archived pages. Today's seven-room roster has explicit exclusions and its own controls. Preserve this earlier design rather than replace the living rule with it.
+recovery a9c8b955f45fba60b0badbc810ba636dc17bb1a7 -- the nib law, page-specific bound argument, derived control sizes, and PATH newline repair are present in later implementations. Its record landed in b2c6e735e; the competing control variant stays available in this stash.
+recovery 1e367b5c293dc100fb2a66471103e731c250fabd -- earlier nib-law patch is included in the next stash. The unlanded fleet-fly-bare launcher uses the elder tools room and Claude-only startup; current named-window watchers and clockout files supersede it.
+obs The first detached cold launch produced only a launch header and exited without a verdict. The second launch used the installed ripgrep on PATH and a retained tool session; it finished with a matching seven-stash inventory and tree_moved=no.
+loom family=standing_equipment phase=cold guards=207 green=202 red=3 gated=2 seconds=1895 cpu_ms=1715586 tree_moved=no
+obs Cold reds were exec_bit and seed_link, plus standing_equipment reporting those two failures. The two gated guards were pond_enclosure_policy and pond_enclosure_ephemeral at custody gate 5.
+obs Both newly non-executable scripts arrived in 29c7bf503. Their modes now match the index. The seed's four front doors already read zero broken projection links; the TAME rule now names its withheld core in plain text, as its Cursor twin already does.
+obs The checkpoint preserves the watcher's earlier wording. The replacement corrects its copied enclosure claim and improves the opening from C+ 76 to A 93; all nonblank shell statements outside comments remain identical. Its help output stays inside the comment header.
+loom family=exec_bit plain_shebang_before=59 plain_shebang_after=57 ceiling=57 direct_missing=0 mode_disagreements=0 control_checks=16
+loom family=seed_link other_links_before=849 other_links_after=848 ceiling=848 front_door_links=0 control_checks=16
+loom family=codex_fleet watcher_pass=17 watcher_fail=0 loop_pass=10 loop_fail=0
+loom family=qa watcher_before=76 watcher_after=93 control=100 tame_rule=100 checkpoints=100
+file .claude/rules/tame-guidance.md plain path to the working field's compressed core
+file construction/CHECKPOINTS.md preserve the watcher comment molt and its walk-back nib
+file construction/ITINERARY.md carry the parent nib and this lap's log pointer
+file session-logs/date/README-index-20260909.md prepend this lap's shelf-qualified row
+obs The send fetch found Diffuser commit 9230cb0f0 had independently repaired both modes and the same watcher comments. Keep its complete watcher version; our checkpoint records the earlier local rewrite. Both versions preserve the same shell statements. The seed-link change and this seat's stash audit remain this commit's work.
+loom family=standing_equipment phase=hot guards=207 green=205 red=0 gated=2 seconds=1916 cpu_ms=1767469 tree_moved=no verdict=ok
+recommend keep-going Continue with the remaining agent-doable REDS; preserve the equinox patch behind its dated-guard ruling and retain all seven stashes.
+scope Incense stash recovery review, two ratchet repairs, and watcher comment review; no peer checkout changed and no seed publish performed
+status GREEN exec_bit and seed_link witnesses, Codex watcher 17 cases, Codex loop 10 cases, shell syntax and comment-only comparison; two custody gates remain held

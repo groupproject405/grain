@@ -48,7 +48,7 @@
 
 ### Now -- the live front
 
-**Git nib:** `6fe92b191b` -- HEAD's parent, resolvable everywhere (%401).
+**Git nib:** `9230cb0f0e` -- HEAD's parent, resolvable everywhere (%401).
 
 **BAKERY -- A PEER AND I DIAGNOSED ONE FAULT AND BUILT TWO CURES; MINE WITHDREW.**
 Elder [shelved](archive/20260909-000500_itinerary-landed-accounts.md) by a peer; mine duplicated it.
@@ -378,6 +378,6 @@ The logs keep the account; earlier rows are shelved in
 
 | Landed | Round | Log |
 |---|---|---|
-| `20260908.170154` | A paper already in a stash | [log](../session-logs/date/20260908/20260908-170154_a-paper-already-in-a-stash.kyri) |
+| `20260909.030429` | Fleet recovery | [log](../session-logs/date/20260909/20260909-030429_fleet-recovery.kyri) |
 
 **One row, on purpose** -- a landed lap keeps one line until the next replaces it; the log carries the detail.

@@ -1,5 +1,7 @@
 # Checkpoints -- the walk-back markers before every debride
 
+**Checkpoint `20260909.030229` -- walk-back nib `6fe92b191b`.** *Swept:* the opening comments and copied enclosure paragraph in `tools/f/fleet_watch_codex.sh`, graded C+ 76. The new opening names the Codex launch, both recognized loop engines, shell ownership, retry settings, and stop markers in plain words. The elder four-cause account stays at this nib and in the Claude watcher. Its claim that the Codex loop wraps a Linux lap in a jail was inherited from that watcher; the Codex loop runs bare. Usage, environment options, and stop conditions remain described. Every shell statement stays byte-identical after comment and blank lines are removed. The draft grades A 93.
+
 **Checkpoint `20260909.025531` -- walk-back nib `6fe92b191b`.** The opening comment in
 `tools/f/fleet_watch_codex.sh` graded C+ 76 under the program's Door reading.
 Rewrite it in place to explain the watch, its flags, and its hold checks in plain
