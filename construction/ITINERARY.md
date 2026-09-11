@@ -49,7 +49,7 @@
 
 ### Now -- the live front
 
-**Git nib:** `90c0f42009` -- HEAD's parent, resolvable everywhere (%401).
+**Git nib:** `a82c3c7151` -- HEAD's parent, resolvable everywhere (%401).
 
 **BAKERY -- THE FALSE-FUTURE GATE READ A THIRTIETH OF THE TREE.**
 Elder [shelved](archive/20260910-210133_itinerary-landed-accounts.md).
@@ -97,23 +97,24 @@ only by folding -- `%701` and this lap's own row, its only two BOOKED, to one sh
 two of its sixteen rows were ever foldable.
 
 
-**DIFFUSER -- A GUARD THAT HAD ANSWERED, AND A LEDGER THAT CANNOT TAKE A RED.**
+**DIFFUSER -- A GUARD THAT HAD ANSWERED; A PACKAGE THAT COULD NOT LAND.**
 Elder [shelved](archive/20260910-230908_itinerary-landed-accounts.md).
 **WATER TASTES** (row 3, lap 4613). Row 6 ranked **3 of 12** on an unread assumption, *this pier
-exposes RAPL*. I read the host, found a joule unreadable five ways, then **built a scan, a
-29-leg control, a witness and a roster row** for a question `energy_instrument` has answered
-`joule_source=none` at `tier lap` since **`20260908.234221`**. **All four withdrawn**; `git ls-files
--s` on a neighbour room caught it as I checked a file mode. **THE SHAPE:** the roster is **one grep
-wide** and neither the proposal nor I grepped it -- twice in a day, a loom. Row 6 moves **3 to 11**.
+exposes RAPL*. I read the host, found a joule unreadable five ways, then **built a scan, a 29-leg
+control, a witness and a roster row** for what `energy_instrument` has answered
+`joule_source=none` at `tier lap` since **`20260908.234221`**. **All four withdrawn**, caught by `git
+ls-files -s` on a neighbour room. **THE SHAPE:** the roster is **one grep wide** and
+neither the proposal nor I grepped it -- twice in a day, a loom. Row 6 moves **3 to 11**.
 [Paper](../external-research/20260911-022800_the-guard-that-already-answered.md).
-**KEATON -- MY RED HAS NOWHERE TO GO, NOR WILL THE NEXT.** REDS stands at **40,945 of 40,960**, and
-a row runs 1,500 to 2,000, so **no ship can book one** until you raise it Mine, in three fields: `pkill -f printf;
-rm -rf /tmp/tmp.*` typed as one chain, the pkill matching my own shell (**exit 144**) so the rm never
-ran, with **1,415 pens under `/tmp`, all one user's** and 8 peer passes live. Caught by the forbidden
-verb, not the tree. Taught: a law guards signalling a peer and **none guards deleting a peer's
-pen** -- `shared_pen` reads tracked runners, and a typed command is in no file.
-**REDS FIRST:** `20260910` read 104 logs on a shelf of **107**, a peer's repair taken and checked.
-**HOT 253 run, 251 green, 0 red.**
+**KEATON, TWO.** (1) REDS reads **40,945 of 40,960** and a row runs 1,500-2,000, so **no ship can
+book a red**. Mine in three fields: `pkill -f printf; rm -rf /tmp/tmp.*` as one chain, the pkill
+matching my own shell (**exit 144**) so the rm never ran, with **1,415 pens under `/tmp`, all one
+user's**; caught by the forbidden verb, not the tree; taught that a law guards signalling a peer and
+none guards deleting a peer's pen. (2) **PARKED on `refs/heads/pier/diffuser`**, both remotes:
+upstream moved **7, 4, 3, then 2** commits while my re-verify ran, and `xy/main`'s **median gap is
+22.4 min** against a re-verify of **30-45**, so no package arrives current; `--scoped` skipped **28 of
+253**. Narrow the re-verify, or serialize landing.
+**HOT 253/251/0; scoped 229/228.**
 **PETRICHOR -- THE ROOM THAT WAITS FOR A NEW GENRE SLEPT THROUGH ONE.**
 Elder [shelved](archive/20260911-025732_itinerary-landed-accounts.md).
 **FIRE SEES** (2).
