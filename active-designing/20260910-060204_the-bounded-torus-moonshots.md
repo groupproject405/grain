@@ -148,6 +148,19 @@ would try to measure, which would put the counter below the resolution the claim
 **Confidence.** Medium-high for the reading, low for the bound. Reading energy is mechanical;
 choosing a ceiling anyone would keep is the harder half.
 
+**READ `20260911`, and the answer was already on the roster.** `tools/e/energy_instrument_witness.rish`
+was seated `20260908.234221` -- a day and a half before this page was written -- runs at `tier lap`,
+and reads this pier `joule_source=none`: zero readable powercap domains, zero hwmon energy inputs,
+zero readable supplies, zero perf `power` events, no msr device. This pier is a Hyper-V guest on
+Vultr carrying an AMD EPYC-Rome; the `msr` PMU carries `tsc` alone where bare metal also carries
+`aperf`, `mperf` and `smi`, so the hypervisor filters the register and no permission grants it back.
+**The falsifier above rests on the assumption**, since resolution can only be measured where a
+counter answers -- so this row was unfalsifiable for a reason nobody had written down, while a guard
+that could have said so ran on every lap. The row stands buildable on a physical bench and
+unbuildable on the pier the lane sails. Reading:
+[`../external-research/20260911-022800_the-guard-that-already-answered.md`](../external-research/20260911-022800_the-guard-that-already-answered.md);
+tier and method: [`../external-research/20260908-234506_the-tier-a-joule-is-measured-at.md`](../external-research/20260908-234506_the-tier-a-joule-is-measured-at.md).
+
 ### 7. Aurora as a small torus of cores
 
 **Claim.** Aurora targets a 4-core or 16-core network-on-chip whose topology Grain knows to be a
@@ -266,15 +279,15 @@ Ranked by what a lane can start on this pier, with no new hardware, this month.
 |---|---|---|
 | 1 | 1. The wrap is the bound | Runs today in Rye; one assert carries the whole claim |
 | 2 | 3. Cyclic topos | Runs today on a witness the tree already owns |
-| 3 | 6. Joules as a Tally unit | One host read away; gives every later row a unit |
+| 3 | 9. Seasonal duty cycle | A fake clock is enough for the first witness |
 | 4 | 10. Glow loops with circumference | Grain owns the compiler; the seat is ours |
-| 5 | 9. Seasonal duty cycle | A fake clock is enough for the first witness |
-| 6 | 4. Aether as falloff field | Cheap to try; the saving rests on locality yet to be measured |
-| 7 | 2. Caravan as pole | A table first, a Caravan change much later |
-| 8 | 5. Tablecloth on a torus | A toy cloth stands well clear of the real store |
-| 9 | 8. Mycelium that does not flood | A three-node fixture is cheap; the routing claim is deep |
-| 10 | 12. The workload trial | Sequenced after the first green, by its own definition |
-| 11 | 11. Whitepaper | Follows the measurements it means to bind |
+| 5 | 4. Aether as falloff field | Cheap to try; the saving rests on locality yet to be measured |
+| 6 | 2. Caravan as pole | A table first, a Caravan change much later |
+| 7 | 5. Tablecloth on a torus | A toy cloth stands well clear of the real store |
+| 8 | 8. Mycelium that does not flood | A three-node fixture is cheap; the routing claim is deep |
+| 9 | 12. The workload trial | Sequenced after the first green, by its own definition |
+| 10 | 11. Whitepaper | Follows the measurements it means to bind |
+| 11 | 6. Joules as a Tally unit | **Re-ranked `20260911`** -- the rostered `energy_instrument` guard already reads this pier `joule_source=none` |
 | 12 | 7. Aurora on a core torus | Paper until a board exists |
 
 ---
@@ -297,6 +310,18 @@ sharper idea of what a declared period buys.
 **What would change this recommendation.** A host that exposes RAPL cleanly today would raise row 6,
 because a unit for energy makes every later measurement comparable. The reading is worth taking
 early, and it stays second in line while row 1 is one file away from green.
+
+**Row 6 fell to rank 11 on `20260911`, and it never needed a new reading.** The rostered
+`energy_instrument` guard had answered `joule_source=none` a day and a half before this page was
+written, so the row waits on a physical bench rather than on effort -- the seat row 7 already holds.
+Rows 1 and 3 landed `20260910` as `wrap_ring` and `cyclic_witness`, so the next door is **row 9, the
+seasonal duty cycle**, whose first witness needs a fake clock and nothing more.
+
+**The habit this bought, worth more than the re-rank:** when a row's assumption names a **capability**,
+cite the guard that reads it, or state that no guard does. `construction/standing-equipment.kyri` is
+one grep wide. The lap that read this page went one worse than the page had -- it built a second
+energy instrument before asking whether one stood, and withdrew it -- so the fault has fired twice
+and belongs in a reading rather than in good intentions.
 
 ---
 
