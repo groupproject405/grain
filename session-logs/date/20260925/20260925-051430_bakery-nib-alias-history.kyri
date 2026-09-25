@@ -1,0 +1,35 @@
+format session-log-v1
+stamp 20260925.051430
+editor Codex CLI
+provider OpenAI
+product Codex
+role bakery core infrastructure
+modality text
+model unverified
+model_status active runtime unverified
+configured_model gpt-6-astra
+configured_status explicit fleet CLI selection
+evidence user fleet instruction; observed parent command fleet-loop-codex.sh launching codex exec -m gpt-6-astra
+voice Kyri
+host Linux workspace; America/New_York
+title Bakery nib alias history repair
+prompt Recover parked work, prove the cold tree, and repair the clock-sensitive alias control.
+obs The control copies one Git fixture before either alias writes its card. Both writes now read the same committed history; independent commit timestamps cannot manufacture different expected hashes.
+obs The parked build-target scan and control match HEAD byte for byte. The wrap witness has a newer landed private-directory cleanup. The stash audit reported no unlanded session logs; the newest stash holds 1196 generated tpr files. All 85 stashes remain intact.
+obs The claim was checked, committed with the card, and pushed to xy then gp405 before the cold pass. The round-open adopted 8d33c5076a; its read-only stash audit finished after the claim commit, with no later reset or rebase. No tracked edit, commit, or pull occurred during the pass.
+obs The complete cold pass held 266b9aefa9 and finished with tree_moved=no. The tool_path_repoint cadence slice ran. The cold nib writer passed this time, consistent with a clock-dependent defect.
+loom cold head=266b9aefa9 guards_run=377 green=333 red=41 gated=3 unrun=0 seconds=4772 cpu_ms=4324995 tree_moved=no run_verdict=guard_red
+obs A diagnostic copy changes both Git date variables by one second between the two alias writes. The original control fails exactly the alias-card comparison; the repaired control passes every check. The existing mutation assigning lead-in the amend derivation still fails as expected.
+loom nib_clock before_pass=40 before_fail=1 before_exit=1 after_pass=41 after_fail=0 after_exit=0
+loom focused remember_git_nib_write=green shape_control=green wrong_alias_mutation=caught
+obs The change stays in the POSIX Git-fixture seam: copying a repository replaces independently initializing it. No new typed decision logic or new instrument is introduced.
+obs The launcher has a live timeout of 5400 seconds from 03:49:50 EDT. The cold pass consumed 4772 seconds. A full hot pass cannot fit in the remaining session; no late pass is launched to outlive this lap. The package is committed for a review branch, with main integration and full hot verification explicitly outstanding.
+rota lap 6528, row 3 -- Water, the row that tastes; the infusion, isolated-test, and language-growth readings favor giving equivalent operations identical inputs while preserving the planted refusal.
+file tools/fixtures/r/remember_git_nib_shape_control.sh -- copy one fixture history for alias comparison.
+file construction/archive/20260925-051430_bakery-cold-recovery-account.md -- preserve the prior Bakery account whole.
+recommend keep-going -- finish full hot verification on the committed repair package after the next round-open settles; use the moved-proof result for integration and keep all existing red findings explicit. The lap-window proposal remains Keaton's open question.
+loom quality control_score=92 claim_board_score=90 other_artifacts_at_least=95 index_row_bytes=142 index_row_bound=green
+obs The second fetch advanced xy/main to 6773274dc across 25 changed paths. The moved-proof reading requires the full roster. The package stays on its measured parent and is published as a review branch rather than integrated into main without that proof.
+obs Two commit messages were refused by the mechanism-word density hook. The shorter final body names the script, directory, call, and file operation.
+scope Nib alias control repair and full cold snapshot; focused verification only for the changed control.
+status PARTIAL -- 41 control checks and the nib-writer witness pass; full cold completed with 41 reds and three gates; full hot and main integration remain owed.

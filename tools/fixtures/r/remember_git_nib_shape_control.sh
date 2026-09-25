@@ -181,11 +181,12 @@ ok "'lead-in' and 'follow-up' render the same bytes" "$([ "$lead_out" = "$follow
 ok "'lead-in' withholds the rule 2 candidate" "$(! printf '%s' "$lead_out" | grep -q 'rule 2' && echo yes || echo no)"
 ok "a lead-in render leaves the card byte-identical" "$([ "$digest_before" = "$(cksum < "$pen/e/construction/ITINERARY.md")" ] && echo yes || echo no)"
 
-# and the WRITE halves agree too: one card, written by each name in turn, lands on one hash.
+# The writes start from copies of one history. Independently created commits can differ
+# solely in timestamps, so their hashes would test the clock as well as the aliases.
 field "$pen/j"
+cp -R "$pen/j" "$pen/k"
 drive "$pen/j" write lead-in >/dev/null
 lead_card=$( cksum < "$pen/j/construction/ITINERARY.md" )
-field "$pen/k"
 drive "$pen/k" write follow-up >/dev/null
 follow_card=$( cksum < "$pen/k/construction/ITINERARY.md" )
 ok "'write lead-in' and 'write follow-up' leave the same card" "$([ "$lead_card" = "$follow_card" ] && echo yes || echo no)"
